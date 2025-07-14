@@ -9,7 +9,7 @@ const App=()=> {
   ]);
 
   return (
-    <div>
+    <div className='mt-20 px-5'>
       <RouterProvider router={router} />
     </div>
   );
